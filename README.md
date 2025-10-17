@@ -1,5 +1,7 @@
 # Task Tracker CLI (Java)
 
+This is a simple CLI application built in pure Java for the [Task Tracker project challenge on roadmap.sh](https://roadmap.sh/projects/task-tracker).
+
 Welcome to the Task Tracker CLI, a simple, lightweight, and dependency-free command-line application for managing your daily tasks. Written in pure, vanilla Java, this tool allows you to add, update, delete, and list your tasks directly from the terminal.
 
 All tasks are persistently stored in a `tasks.json` file in the project's root directory, ensuring your data is always available.
@@ -46,7 +48,7 @@ You only need one thing installed on your system:
 1.  **Download the Code:**
     * **Option 1 (Git):** Clone this repository:
         ```bash
-        git clone https://github.com/P3ngu1n-23/Task_CLI.git
+        git clone [https://github.com/p3ngu1n-23/Task_CLI.git](https://github.com/p3ngu1n-23/Task_CLI.git)
         cd Task_CLI
         ```
     * **Option 2 (ZIP):** Download the ZIP file from GitHub and extract it.
