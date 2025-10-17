@@ -46,7 +46,7 @@ You only need one thing installed on your system:
 1.  **Download the Code:**
     * **Option 1 (Git):** Clone this repository:
         ```bash
-        git clone [https://github.com/P3ngu1n-23/Task_CLI.git](https://github.com/P3ngu1n-23/Task_CLI.git)
+        git clone https://github.com/P3ngu1n-23/Task_CLI.git
         cd Task_CLI
         ```
     * **Option 2 (ZIP):** Download the ZIP file from GitHub and extract it.
